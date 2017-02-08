@@ -1,0 +1,1 @@
+This is Shvatsa's first git project!
